@@ -1,0 +1,6 @@
+﻿  MasterServer.cpp
+D:\aaaaa\socket\MasterServer\MasterServer.cpp(157,20): warning C4018: '<': signed/unsigned mismatch
+D:\aaaaa\socket\MasterServer\MasterServer.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+D:\aaaaa\socket\MasterServer\MasterServer.cpp(197,21): warning C4018: '<': signed/unsigned mismatch
+D:\aaaaa\socket\MasterServer\MasterServer.cpp(177,13): warning C4101: 'file': unreferenced local variable
+  Mastersever.vcxproj -> D:\aaaaa\add project\Mastersever\Debug\Mastersever.exe

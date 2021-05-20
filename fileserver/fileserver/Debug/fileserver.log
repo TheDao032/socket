@@ -1,0 +1,6 @@
+﻿  FileServer.cpp
+D:\aaaaa\socket\FileServer\FileServer.cpp(211,20): warning C4018: '<': signed/unsigned mismatch
+D:\aaaaa\socket\FileServer\FileServer.cpp(252,20): warning C4018: '<': signed/unsigned mismatch
+D:\aaaaa\socket\FileServer\FileServer.cpp(272,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\aaaaa\socket\FileServer\FileServer.cpp(310,22): warning C4018: '<': signed/unsigned mismatch
+  fileserver.vcxproj -> D:\aaaaa\add project\fileserver\Debug\fileserver.exe
